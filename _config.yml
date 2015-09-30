@@ -1,0 +1,38 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Adam Wong
+tagline:             My Personal Site
+url:                 http://aaewong.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Adam Wong
+  url:               https://twitter.com/adam_aewong
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/aaewong/aaewong.github.io
+
+highlighter: 		 pygments
+
+# List of Pages
+pages_list:       
+  About: '/about'
+  Blog: '/blog'
+
+paginate_path: "/blog/page:num/"
