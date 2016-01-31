@@ -6,9 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Adam Wong
-tagline:             My Personal Site
+tagline:             Home
 url:                 http://aaewong.github.io
-paginate:            1
 baseurl:             ""
 
 # Assets
