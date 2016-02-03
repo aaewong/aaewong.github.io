@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-##Hi. 
+## Hi. 
 
 Welcome to my home on the Internet.
