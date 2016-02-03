@@ -17,4 +17,4 @@ Check me out on [GitHub](https://github.com/aaewong) to see some of the projects
 
 * Send me [mail](mailto:adam.aewong@gmail.com)
 * Add me on [LinkedIn](https://www.linkedin.com/in/wongadam)
-* Follow me on [Twitter](https://twitter.com/adam_aewong)
+* Follow me on [Twitter](https://twitter.com/adamaewong)
