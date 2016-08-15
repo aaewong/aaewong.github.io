@@ -6,7 +6,7 @@ title: Home
 
 Hi. Welcome to my home on the internet. 
 
-I'm a full-stack developer from Vancouver, BC. Currently, I'm in my final year of Computer Engineering at the University of British Columbia. I love building software and have a keen interest in all things web. 
+I'm a full-stack developer from Vancouver, BC. Currently, I'm finishing my final year of Computer Engineering at the University of British Columbia. I love building software and have a keen interest in all things web. 
 
 When I'm not in front of a computer, I like making music and racing through the city streets on my bike.
 
