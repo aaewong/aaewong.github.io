@@ -23,7 +23,6 @@ github:
 
 # List of Pages
 pages_list:
-  About: '/about'
   Blog: '/blog'
 
 permalink: pretty
