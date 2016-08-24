@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional Programmin in JavaScript - Arrays
+title: Functional JavaScript - Arrays
 ---
 One of my favorite parts of JavaScript is its functional capabilities. As we discussed in my last post, JavaScript functions are first class objects, meaning that they can be passed around as variables, even to other functions. In this post, we'll look at some of the ways we can utilize JavaScript's functional features with the ```Array.prototype``` for cleaner code with reduced [side-effects](https://en.wikipedia.org/wiki/Side_effect_(computer_science)).
 
