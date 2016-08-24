@@ -24,6 +24,7 @@ github:
 # List of Pages
 pages_list:
   Blog: '/blog'
+  Archive: '/blog/all'
 
 permalink: pretty
 
