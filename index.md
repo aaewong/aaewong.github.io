@@ -8,13 +8,13 @@ Hi. Welcome to my home on the internet.
 
 I'm a full-stack developer from Vancouver, BC. Currently, I'm finishing my final year of Computer Engineering at the University of British Columbia. I love building software and have a keen interest in all things web. 
 
-When I'm not in front of a computer, I like making music and racing through the city streets on my bike.
+When I'm not in front of a computer, I like making music and riding through the city on my bike.
 
 ### Experience
 
 #### Amazon
 * Software Development Engineer Intern
-* May 2016 - Present 
+* May 2016 - August 2016
 
 #### SAP
 * Agile Developer Co-op
