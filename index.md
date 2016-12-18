@@ -27,4 +27,4 @@ When I'm not in front of a computer, I like making music and riding through the 
 
 * Send me [mail](mailto:adam.aewong@gmail.com)
 * Add me on [LinkedIn](https://www.linkedin.com/in/wongadam)
-* Follow me on [Twitter](https://twitter.com/adamaewong)
+* Follow me on [Twitter](https://twitter.com/notadamwong)
